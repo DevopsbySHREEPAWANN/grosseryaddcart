@@ -1,0 +1,664 @@
+<div id="page" class="site hitmag-wrapper">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	<header id="masthead" class="site-header" role="banner">
+
+		
+							<div class="hm-topnavbutton">
+					<div class="hm-nwrap">
+						<a href="#" class="navbutton" id="top-nav-button">Top Menu</a>
+					</div>	
+				</div>
+				<div class="responsive-topnav"><div class="hm-nwrap"><ul id="top-menu" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="tel:+%2091%2070138%2082648">+ 91 70138 82648</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://devopsbyrushi.com/contact-us/">Book Appointment Now!</a></li>
+</ul></div></div>					
+			
+			<div class="hm-top-bar">
+				<div class="hm-container">
+					
+											<div class="hm-date">October 27, 2020</div>
+					
+											<div id="top-navigation" class="top-navigation">
+							<div class="menu-top-menu-container"><ul id="top-menu" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="tel:+%2091%2070138%2082648">+ 91 70138 82648</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://devopsbyrushi.com/contact-us/">Book Appointment Now!</a></li>
+</ul></div>					
+						</div>		
+					
+					<div class="hm-social-menu"><div id="hm-menu-social" class="menu"><ul id="menu-social-items" class="menu-items"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://www.facebook.com/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://www.instagram.com/"><span class="screen-reader-text">Instagram</span></a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://www.linkedin.com/"><span class="screen-reader-text">Linked In</span></a></li>
+</ul></div></div>
+				</div><!-- .hm-container -->
+			</div><!-- .hm-top-bar -->
+
+		
+		
+		<div class="header-main-area ">
+			<div class="hm-container">
+			<div class="site-branding">
+				<div class="site-branding-content">
+					<div class="hm-logo">
+											</div><!-- .hm-logo -->
+
+					<div class="hm-site-title">
+													<h1 class="site-title"><a href="https://devopsbyrushi.com/" rel="home">Rushi</a></h1>
+													<p class="site-description">DevOps Trainer &amp; Consultant</p>
+											</div><!-- .hm-site-title -->
+				</div><!-- .site-branding-content -->
+			</div><!-- .site-branding -->
+
+			
+						</div><!-- .hm-container -->
+		</div><!-- .header-main-area -->
+
+		
+		<div class="hm-nav-container">
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<div class="hm-container">
+					<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-16"><a href="https://devopsbyrushi.com/" aria-current="page">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://devopsbyrushi.com/blog/">Blog</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://devopsbyrushi.com/contact-us/">Contact Us</a></li>
+</ul></div>					
+											<div class="hm-search-button-icon"></div>
+						<div class="hm-search-box-container">
+							<div class="hm-search-box">
+								<form role="search" method="get" class="search-form" action="https://devopsbyrushi.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>							</div><!-- th-search-box -->
+						</div><!-- .th-search-box-container -->
+									</div><!-- .hm-container -->
+			</nav><!-- #site-navigation -->
+			<div class="hm-nwrap">
+				<a href="#" class="navbutton" id="main-nav-button">Main Menu</a>
+			</div>
+			<div class="responsive-mainnav"><div class="hm-nwrap"><ul id="primary-menu" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-16"><a href="https://devopsbyrushi.com/" aria-current="page">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://devopsbyrushi.com/blog/">Blog</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://devopsbyrushi.com/contact-us/">Contact Us</a></li>
+</ul></div></div>
+		</div><!-- .hm-nav-container -->
+
+		
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+		<div class="hm-container">
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-6" class="hitmag-page post-6 page type-page status-publish hentry">
+
+	
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header><!-- .entry-header -->
+
+	
+	
+	<div class="entry-content">
+		
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p class="has-text-align-center">Hi, I am</p>
+
+
+
+<div class="wp-block-getwid-advanced-heading has-custom-font-size" style="font-size:45px"><span class="wp-block-getwid-advanced-heading__content has-text-color has-luminous-vivid-orange-color" style="text-align:center;font-family:&quot;Alegreya SC&quot;;font-weight:normal;text-transform:"><strong>RUSHI</strong></span></div>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p class="has-text-align-center">I am a&nbsp;<strong>DevOps Professional</strong></p>
+
+
+
+<p class="has-text-align-center">I am a&nbsp;<strong>Consultant</strong></p>
+
+
+
+<p class="has-text-align-center">I am a&nbsp;<strong>Trainer</strong></p>
+</div></div>
+</div></div>
+
+
+
+<h2 class="has-text-align-center"><strong>ABOUT ME</strong></h2>
+
+
+
+<p style="font-family:Arial" class="has-text-align-center has-custom-font"><strong><em>Rushi</em></strong><br>I am a DevOps Consultant specialized in DevOps and Cloud. I worked with various technologies and continue to upgrade skills according to current IT trend. I am passionate about learning new technology and teaching. I do lot of research before preparing course and try to demonstrate from basics.</p>
+
+
+
+<h3 class="has-text-align-center">My Professional Skills</h3>
+
+
+
+<p class="has-text-align-left">Teaching is my passion and I design every course so you can start from scratch, and become an expert after the course and can work on enterprise projects. I am working as a <strong>DevOps Professional</strong> in IT industry and having experience on many technologies.</p>
+
+
+		<style>
+		#wpsm_progress_b_row_19{
+	    overflow:hidden;
+	    display:block;
+	    width:100%;
+	    border:0px solid #000;
+	    margin-bottom:20px;
+        }
+		
+		</style>
+		
+		<div class="wpsm_progress_b_row" id="wpsm_progress_b_row_19">
+			<style>
+
+#wpsm_progress_b_row_19 .wpsm_progress .wpsm_progress-pro-bar {
+    background: #e5e5e5;
+    margin:5px 0 20px 0;
+}
+
+#wpsm_progress_b_row_19 .wpsm_progress .wpsm_progress-title{
+    font-size: 20px;
+    font-weight: 300;
+	font-family: Open Sans;
+    color: #000000;
+    line-height: 22px;
+}
+#wpsm_progress_b_row_19 .wpsm_progress .wpsm_progress-value{
+    line-height: 22px;
+    position: absolute;
+    top: 0;
+    right: 0;
+	font-style: normal;
+	font-size: 20px;
+    font-weight: 300;
+    color: #000000;
+}
+
+#wpsm_progress_b_row_19 .wpsm_progress .wpsm_progress-bar {
+	background-color: #3398da;
+    animation: animate-positive 2s;
+    height:4px;
+}
+
+@-webkit-keyframes animate-positive{
+    0% { width: 0%; }
+}
+@keyframes animate-positive{
+    0% { width: 0%; }
+}
+
+</style>
+	
+				<div class="col-md-12 col-sm-6">
+                
+				 <div class="wpsm_progress">
+                <div class="wpsm_progress-title" style="">DevOps</div>
+                <div class="wpsm_progress-value" style="">100%</div>
+                <div class="wpsm_progress-pro-bar" style="">
+                    <div class="wpsm_progress-bar wow" style="width: 100%; visibility: hidden; animation-name: none;"></div>
+                </div>
+                </div>
+                   
+                </div>
+
+		    
+				<div class="col-md-12 col-sm-6">
+                
+				 <div class="wpsm_progress">
+                <div class="wpsm_progress-title" style="">AWS</div>
+                <div class="wpsm_progress-value" style="">100%</div>
+                <div class="wpsm_progress-pro-bar" style="">
+                    <div class="wpsm_progress-bar wow" style="width: 100%; visibility: hidden; animation-name: none;"></div>
+                </div>
+                </div>
+                   
+                </div>
+
+		    
+				<div class="col-md-12 col-sm-6">
+                
+				 <div class="wpsm_progress">
+                <div class="wpsm_progress-title" style="">Kubernets</div>
+                <div class="wpsm_progress-value" style="">100%</div>
+                <div class="wpsm_progress-pro-bar" style="">
+                    <div class="wpsm_progress-bar wow" style="width: 100%; visibility: hidden; animation-name: none;"></div>
+                </div>
+                </div>
+                   
+                </div>
+
+		    
+				<div class="col-md-12 col-sm-6">
+                
+				 <div class="wpsm_progress">
+                <div class="wpsm_progress-title" style="">Docker</div>
+                <div class="wpsm_progress-value" style="">100%</div>
+                <div class="wpsm_progress-pro-bar" style="">
+                    <div class="wpsm_progress-bar wow" style="width: 100%; visibility: hidden; animation-name: none;"></div>
+                </div>
+                </div>
+                   
+                </div>
+
+		        
+		</div>
+		
+		
+	
+
+
+
+<h3 class="has-text-align-center">Course Details</h3>
+
+
+		<div class="wpsm_service_b_row" id="wpsm_service_b_row_26">
+			    <div class="wpsm_row">
+        <style>
+			.wpsm_row{
+				overflow:hidden;
+				display:block;
+				width:100%;
+			}
+			.wpsm_service_b_row{ 
+				overflow:hidden;
+				display:block;
+				width:100%;
+				border:0px solid #ddd;
+				margin-bottom:20px;
+			}
+				
+		 #wpsm_service_b_row_26 .wpsm_serviceBox{
+			padding: 20px 10px 20px 10px;
+			text-align: center;
+			transition: all 0.3s ease 0s;
+		   background:#e5e5e5;
+			margin-bottom:30px;
+		}
+		 
+		 #wpsm_service_b_row_26 .wpsm_serviceBox .wpsm_service-icon i{
+			font-size: 60px;
+			 color: #636363 !important;
+		}
+		 #wpsm_service_b_row_26 .wpsm_serviceBox .wpsm_service-content h3{
+		   color: #000000 !important;
+			font-size: 22px !important;
+			font-weight: 600;
+						font-family:'Open Sans' !important;
+					   clear:inherit !important;
+			line-height:1.4 !important;
+			margin-top:10px !important;
+			margin-bottom:0px !important;
+		}
+		 #wpsm_service_b_row_26 .wpsm_serviceBox .wpsm_service-content p{
+		   color:#7f7f7f !important;
+			font-size: 19px !important;
+			line-height:1.4 !important;
+						font-family:'Open Sans' !important;
+						margin-top:10px !important;
+			margin-bottom:0px !important;
+			
+			
+		}
+		 #wpsm_service_b_row_26 .wpsm_serviceBox .wpsm_read_more{
+		   margin-top:15px;
+		   color: #4c4c4c !important;
+			font-size: 16px !important;
+		   background:#ffffff;
+			border: 2px solid #ffffff;
+			text-decoration: none;
+			display: inline-block;
+			padding: 7px 10px;
+		   border-radius: 0;
+			font-weight: normal;
+						font-family:'Open Sans' !important;
+					}
+		
+
+				
+		</style>
+							<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>LINUX</h3>
+								<p>
+									one of the most popular platforms on the planet, Android, is powered by the Linux operating system.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>GIT</h3>
+								<p>
+									Git is a distributed version-control system for tracking changes in source code during software development.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>ANSIBLE</h3>
+								<p>
+									Ansible is an open-source software provisioning, configuration management &amp; application-deployment tool.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>KUBERNETS</h3>
+								<p>
+									Kubernetes is an open-source container-orchestration system for automating application deployment, scaling, and management.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									</div>
+					<div class="wpsm_row">
+										<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>SONARQUBE</h3>
+								<p>
+									SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>JENKINS</h3>
+								<p>
+									Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>AWS</h3>
+								<p>
+									Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>MAVEN</h3>
+								<p>
+									Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									</div>
+					<div class="wpsm_row">
+										<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>DOCKER</h3>
+								<p>
+									Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>NAGIOS</h3>
+								<p>
+									Nagios, now known as Nagios Core, is a free and open-source computer-software application that monitors systems, networks and infrastructure.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-check-square-o"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>TOMCAT</h3>
+								<p>
+									Apache Tomcat is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and WebSocket technologies.								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									<div class="wpsm_col-md-3 wpsm_col-sm-6">
+						<div class="wpsm_serviceBox">
+															<div class="wpsm_service-icon">
+									<i class="fa fa-laptop"></i>
+								</div>
+														<div class="wpsm_service-content">
+								<h3>Real-Time Solutions</h3>
+								<p>
+									We offer Real-time Solutions for DevOps and trouble shooting for your issues practically. 								</p>
+							</div>
+																								<a href="#" class="btn btn-default wpsm_read_more" target="_blank">Read More</a>
+														</div>
+					</div>
+									</div>
+					<div class="wpsm_row">
+					    		
+    </div>		</div>
+		
+	
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p class="has-text-align-center has-medium-font-size"><strong>RESUME PREPARATION</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p class="has-text-align-center has-medium-font-size"><strong>ROLES, RESPONSIBILITIES</strong> <strong>&amp; DAY TO DAY ACTIVITIES</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:66.66%">
+<p style="color:#fe0c14;font-size:23px" class="has-text-color has-background has-text-align-center has-pale-cyan-blue-background-color"><strong>DEMO SESSION ON EVERY SATURDAY 9:00 am</strong></p>
+</div>
+
+
+
+<div class="wp-block-column" style="flex-basis:33.33%">
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link has-background" href="http://devopsbyrushi.com/contact-us" style="background:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(37,138,181) 23%,rgb(155,81,224) 100%)"><strong>Enquire now!</strong></a></div>
+</div>
+</div>
+</div>
+
+
+
+<h4 class="has-text-align-center">Feel Free to Reach us!</h4>
+
+
+
+		<div class="coblocks-form" id="ae4ea513b3c6901040201d4d5871001a96608b5e">
+
+			
+			<form action="https://devopsbyrushi.com/#ae4ea513b3c6901040201d4d5871001a96608b5e" method="post">
+				
+<label for="name" class="coblocks-label">Name <span class="required">*</span></label>
+		<input type="hidden" name="field-name[label]" value="Name">
+
+				<input type="hidden" id="name-field-id" name="name-field-id" class="coblocks-name-field-id" value="field-name">
+		
+		<input type="text" id="name" name="field-name[value]" class="coblocks-field coblocks-field--name" required="">
+
+		
+
+<label for="phone" class="coblocks-label">Phone <span class="required">*</span></label>
+		<input type="hidden" name="field-phone[label]" value="Phone">
+
+		
+		<input type="tel" id="phone" name="field-phone[value]" class="coblocks-field coblocks-field--telephone" required="">
+
+		
+
+<label for="email" class="coblocks-label">Email <span class="required">*</span></label>
+		<input type="hidden" name="field-email[label]" value="Email">
+
+		
+		<input type="hidden" id="email-field-id" name="email-field-id" class="coblocks-email-field-id" value="field-email">
+		<input type="email" id="email" name="field-email[value]" class="coblocks-field coblocks-field--email" required="">
+
+		
+
+<label for="message" class="coblocks-label">Message <span class="required">*</span></label>
+		<input type="hidden" name="field-message[label]" value="Message">
+
+		
+		<textarea name="field-message[value]" id="message" class="coblocks-field coblocks-textarea" rows="20" required=""></textarea>
+
+		
+
+
+		<div class="coblocks-form__submit wp-block-button">
+			<button type="submit" class="wp-block-button__link" style="background-color: #00d084;">Contact Us</button>
+			<input type="hidden" id="form-submit" name="form-submit" value="6cf3eec7bd"><input type="hidden" name="_wp_http_referer" value="/">			<input type="hidden" name="action" value="coblocks-form-submit">
+
+					</div>
+
+		
+				<input class="coblocks-field verify" type="email" name="coblocks-verify-email" autocomplete="off" placeholder="Email" tabindex="-1">
+				<input type="hidden" name="form-hash" value="ae4ea513b3c6901040201d4d5871001a96608b5e">
+
+							</form>
+
+		</div>
+
+		
+
+<div class="wp-block-coblocks-social wp-block-coblocks-social-profiles has-text-align-center has-colors"><ul><li>
+					<a href="https://www.facebook.com/devopsbyrushi" class="wp-block-button__link wp-block-coblocks-social__button wp-block-coblocks-social__button--facebook     has-padding" title="Facebook" style="border-radius: 40px;">
+						<span class="wp-block-coblocks-social__icon" style=""></span>
+						<span class="wp-block-coblocks-social__text">Facebook</span>
+					</a>
+				</li><li>
+					<a href="https://twitter.com/devopsbyrushi" class="wp-block-button__link wp-block-coblocks-social__button wp-block-coblocks-social__button--twitter     has-padding" title="Twitter" style="border-radius: 40px;">
+						<span class="wp-block-coblocks-social__icon" style=""></span>
+						<span class="wp-block-coblocks-social__text">Twitter</span>
+					</a>
+				</li><li>
+					<a href="https://www.instagram.com/devopsbyrushi" class="wp-block-button__link wp-block-coblocks-social__button wp-block-coblocks-social__button--instagram     has-padding" title="Instagram" style="border-radius: 40px;">
+						<span class="wp-block-coblocks-social__icon" style=""></span>
+						<span class="wp-block-coblocks-social__text">Instagram</span>
+					</a>
+				</li><li>
+					<a href="https://www.linkedin.com/devopsbyrushi" class="wp-block-button__link wp-block-coblocks-social__button wp-block-coblocks-social__button--linkedin     has-padding" title="Linkedin" style="border-radius: 40px;">
+						<span class="wp-block-coblocks-social__icon" style=""></span>
+						<span class="wp-block-coblocks-social__text">Linkedin</span>
+					</a>
+				</li><li>
+					<a href="https://www.youtube.com/devopsbyrushi" class="wp-block-button__link wp-block-coblocks-social__button wp-block-coblocks-social__button--youtube     has-padding" title="YouTube" style="border-radius: 40px;">
+						<span class="wp-block-coblocks-social__icon" style=""></span>
+						<span class="wp-block-coblocks-social__text">YouTube</span>
+					</a>
+				</li></ul></div>
+
+
+<p></p>
+	</div><!-- .entry-content -->
+
+	
+	
+	
+</article><!-- #post-## -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	</div><!-- .hm-container -->
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="hm-container">
+
+			
+			<div class="footer-widget-area">
+				<div class="footer-sidebar" role="complementary">
+					<aside id="text-3" class="widget widget_text"><h4 class="footer-widget-title">About Us</h4>			<div class="textwidget"><p>Hi, I am <strong>Rushikesh</strong>. I am a DevOps and AWS <strong>Trainer cum Consultant</strong>. I was having hands on experience on DevOps and AWS.<br>
+We provide <strong>Training</strong> on DevOps and AWS with practical knowledge. Contact us for more details.</p>
+</div>
+		</aside>				</div><!-- .footer-sidebar -->
+		
+				<div class="footer-sidebar" role="complementary">
+					<aside id="custom_html-2" class="widget_text widget widget_custom_html"><h4 class="footer-widget-title">Reach us</h4><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15553.067186229833!2d77.6970645!3d12.9547723!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x14480642a5840b5!2sDEVOPSBYRUSHI%20-%20REAL%20TIME%20DEVOPS%20WITH%20AWS%20TRAINING%20IN%20MARATHALI%20BANGLORE!5e0!3m2!1sen!2sin!4v1589809159712!5m2!1sen!2sin" width="250" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div></aside>				</div><!-- .footer-sidebar -->		
+
+				<div class="footer-sidebar" role="complementary">
+					<aside id="text-2" class="widget widget_text"><h4 class="footer-widget-title">Contact Address:</h4>			<div class="textwidget"><p>Rushikesh (Trainer cum Consultant)<br>
+H.No: 896, Srivaari Nilayam, 5th Main<br>
+2nd Floor, 2nd Room, Tulasi Theatre Road,<br>
+Marathahalli, Bengaluru – 560037<br>
+Call – 7013882648<br>
+Mail – devopsbyrushi@gmail.com</p>
+</div>
+		</aside>				</div><!-- .footer-sidebar -->			
+			</div><!-- .footer-widget-area -->
+
+			
+		</div><!-- .hm-container -->
+
+		<div class="site-info">
+			<div class="hm-container">
+				<div class="site-info-owner">
+					Copyright © 2020 <a href="https://devopsbyrushi.com/" title="Rushi">Rushi</a>.				</div>			
+				<div class="site-info-designer">
+					Designed by <a href="http://www.digitalhalva.in" target="_blank" title="Digital Halva">Digital Halva</a> and <a href="http://digitalhalva.in/" target="_blank" title="Venkatesh">Venkatesh</a>.				</div>
+			</div><!-- .hm-container -->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+	
+</div>
